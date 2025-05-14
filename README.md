@@ -17,4 +17,4 @@ First we need to setup the Raspberry Pi 5 virtual environment. Type the followin
  - Press Install button
 3) Open the python file BT-LAN-MAC.py from the gihub, and run it in the Thonny IDE. At the bottom of the Thonny IDE, the data should look like the following:
    
-
+![](//https://github.com/eugenedakin/PICO_WH-Bluetooth-LAN-MAC_Address/blob/main/PicoWH-BT-LAN-ScreenGrab.png)
