@@ -4,9 +4,11 @@ Gets MAC Address on Pico WH for Bluetooth and LAN
 First we need to setup the Raspberry Pi 5 virtual environment. Type the following commands in a terminal:
 1)	On the Raspberry PI 5:
  - Make a new folder called Pico-Pi5 (/home/PiServerName/Desktop/Bluetooth/Pico-Pi5)
+ - Update the libraries (sudo apt-update)
+ - Install pip (sudo apt install python3-pip)
  - Create a virtual environment (python3 -m venv venv)
  - Activate virtual environment (source venv/bin/activate)
- - Install bleak library (pip install bleak)
+ - Install bleak library (pip3 install bleak)
 2)	Setup Raspberry Pi Pico 
  - Ensure the IDE thonny is installed on the Raspberry Pi 5
  - Hold down the boot button and plug it into the Raspberry PI 5, this puts the pico wh in bootloader mode
