@@ -1,7 +1,7 @@
 # PICO_WH-Bluetooth-LAN-MAC_Address
 Gets MAC Address on Pico WH for Bluetooth and LAN
 
-First we need to setup the Raspberry Pi 5 virtual environment. Type the following two commands in a terminal:
+First we need to setup the Raspberry Pi 5 virtual environment. Type the following commands in a terminal:
 1)	On the Raspberry PI 5:
  - Make a new folder called Pico-Pi5 (/home/PiServerName/Desktop/Bluetooth/Pico-Pi5)
  - Create a virtual environment (python3 -m venv venv)
